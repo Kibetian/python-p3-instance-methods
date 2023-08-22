@@ -9,8 +9,5 @@ class Dog:
     
     def sit(self):
         print("The dog is sitting.")
-fido = Dog()
-fido.bark()
-fido.sit()
 
 
